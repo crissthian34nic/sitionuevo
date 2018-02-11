@@ -14,7 +14,16 @@
     </section>
     <nav style="background-color: green; width: 100%; height: 60px;"></nav>
     <a href="#">Ir a Jupiter</a>
+
 </header>
+
+<section><h1>Hola soy la secciòn 1</h1></section>
+<section><h1>Hola soy la secciòn 2</h1></section>
+<section><h1>Hola soy la secciòn 3</h1></section>
+<section><h1>Hola soy la secciòn 4</h1></section>
+<section><h1>Hola soy la secciòn 5</h1></section>
+
+section*5>h1
 
 </body>
 </html>

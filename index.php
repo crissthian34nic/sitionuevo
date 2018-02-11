@@ -9,8 +9,8 @@
 </head>
 <body>
 <header style="background-color: black; width: 100%; height: 200px;">
-    <section style="background-color: blue; width: 100%; height: 150px;"></section>
-    <nav style="background-color: green; width: 100%; height: 100px;"></nav>
+    <section style="background-color: blue; width: 100%; height: 50px;"></section>
+    <nav style="background-color: green; width: 100%; height: 60px;"></nav>
 </header>
 
 </body>

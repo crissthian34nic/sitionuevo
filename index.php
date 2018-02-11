@@ -9,8 +9,11 @@
 </head>
 <body>
 <header style="background-color: black; width: 100%; height: 200px;">
-    <section style="background-color: blue; width: 100%; height: 50px;"></section>
+    <section style="background-color: blue; width: 100%; height: 50px;">
+        <p>Soy un parrafo</p>
+    </section>
     <nav style="background-color: green; width: 100%; height: 60px;"></nav>
+    <a href="#">Ir a Jupiter</a>
 </header>
 
 </body>
